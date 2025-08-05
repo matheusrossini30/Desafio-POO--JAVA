@@ -88,7 +88,7 @@ java App
 
 ```
 📦 src
- ┣ 📂com.exercicios
+ ┣ 📂com.desafios
  ┃ ┣ 📂desafio1
  ┃ ┃ ┣ App.java
  ┃ ┃ ┗ ContaBancaria.java
